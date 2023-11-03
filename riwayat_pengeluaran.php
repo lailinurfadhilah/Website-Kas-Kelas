@@ -8,7 +8,7 @@
 <html>
 <head>
   <?php include 'include/css.php'; ?>
-  <title>Riwayat_pengeluaran Kas</title>
+  <title>Riwayat Pengeluaran - Kas Kelas PTI 2021A</title>
 </head>
 <body class="hold-transition sidebar-mini layout-fixed">
 <div class="wrapper">
@@ -24,7 +24,7 @@
       <div class="container-fluid">
         <div class="row mb-2">
           <div class="col-sm">
-            <h1 class="m-0 text-dark">Riwayat Pengeluaran Kas</h1>
+            <h1 class="m-0 text-dark">Riwayat Pengeluaran</h1>
           </div><!-- /.col -->
         </div><!-- /.row -->
       </div><!-- /.container-fluid -->

@@ -23,7 +23,7 @@
 <html>
 <head>
   <?php include 'include/css.php'; ?>
-  <title>Pengeluaran</title>
+  <title>Pengeluaran - Kas Kelas PTI 2021A</title>
 </head>
 <body class="hold-transition sidebar-mini layout-fixed">
 <div class="wrapper">

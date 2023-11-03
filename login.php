@@ -30,7 +30,7 @@
 <html>
 <head>
   <?php include 'include/css.php'; ?>
-  <title>Login</title>
+  <title>Kas Kelas PTI 2021A</title>
   <style>
 	* {
 	    margin: 0;

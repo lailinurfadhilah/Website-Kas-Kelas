@@ -22,7 +22,7 @@
 <html>
 <head>
   <?php include 'include/css.php'; ?>
-  <title>Laporan</title>
+  <title>Laporan  - Kas Kelas PTI 2021A</title>
   <style>
   	@media print {
 	  	.not-printed {
