@@ -19,11 +19,11 @@ Penerapan cloud computing pada website ini yaitu layanan hosting website pada pe
 11. Riwayat Kas : untuk melihat aktivitas yang telah terjadi di website
 12. Riwayat Pengeluaran : untuk melihat aktivitas yang telah terjadi di fitur pengeluaran
 # Disusun Oleh Kelompok 2 
-- Hasna Yuliadysti Nafisah      21050974009
-- Laili Nur Fadhilah            21050974037
-- Mukhamad Khoirul Nizam        21050974045
-- Talitha Aneira Naura Shada    21050974061
-- Tsabita Clara Anjani          21050974063
+- Hasna Yuliadysti Nafisah      (21050974009)
+- Laili Nur Fadhilah            (21050974037)
+- Mukhamad Khoirul Nizam        (21050974045)
+- Talitha Aneira Naura Shada    (21050974061)
+- Tsabita Clara Anjani          (21050974063)
 # Link
 - Link prodi : https://pendidikan-ti.ft.unesa.ac.id/
 - Link website : https://kaskelas.sytes.net
