@@ -26,4 +26,4 @@ Penerapan cloud computing pada website ini yaitu layanan hosting website pada pe
 - Tsabita Clara Anjani          (21050974063)
 # Link
 - Link prodi : https://pendidikan-ti.ft.unesa.ac.id/
-- Link website : https://kaskelas.sytes.net
+- Link website : https://kaskelas.sytes.net (klik "lanjutkan" untuk redirected ke website)
